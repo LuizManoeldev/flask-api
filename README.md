@@ -2,7 +2,7 @@
 
 Esta documentação fornece uma visão geral abrangente do Smart Access API, uma aplicação backend desenvolvida em Flask para gerenciamento de controle de acesso inteligente.
 
-**Este é um repositório paralelo, contendo apenas documentação e trechos de código.**
+**Este é um REPOSITÓRIO PARALELO, contendo apenas documentação e trechos de código.**
 ## Índice
 
 1. [Visão Geral do Projeto](docs/1_overview.md)
